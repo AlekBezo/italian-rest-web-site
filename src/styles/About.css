@@ -1,0 +1,29 @@
+.about-me-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 130px;
+  padding-top: 35px;
+}
+
+.about-me {
+  width: 450px;
+  padding-top: 35px;
+}
+
+.about-me-container img {
+  width: 550px;
+  height: 400px;
+}
+
+.about-me h1 {
+  font-family: Cambria;
+  font-style: italic;
+  font-size: 35px;
+}
+
+.about-me p {
+  font-family: Segoe UI;
+  
+}

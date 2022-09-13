@@ -1,0 +1,14 @@
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    font-size: 30px;
+  }
+  .on {
+    color: yellow;
+  }
+  .off {
+    color: rgb(173, 173, 173);
+  }
